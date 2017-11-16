@@ -1,8 +1,8 @@
 # Miracle Grow
 This is not just fertilized soil, this is an instant amazon rainforest.  The job of this module is to tie together 3 previous modules to automatically produce a deep binary tree
-    -  require tree.js
-    -  require queue.js
-    -  require random.js
+  -  require tree.js
+  -  require queue.js
+  -  require random.js
 
 **Do not** forget your module.exports statement at the end.
 
